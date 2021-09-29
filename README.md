@@ -7,6 +7,8 @@ Commonly Used Functions
 
 git上传命令
 ```
-git commit -m "备注"
+git pull
+git add .
+git commit -m "udpate"
 git push -u origin master
 ```
