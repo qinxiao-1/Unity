@@ -3,6 +3,8 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+[Ll]ogs/
+[Pp]ackages/
 
 # Other files and folders
 .settings/
