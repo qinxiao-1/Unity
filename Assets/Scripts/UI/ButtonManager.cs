@@ -31,4 +31,12 @@ public class ButtonManager : MonoBehaviour
     {
         SceneManager.LoadScene(name);
     }
+    /// <summary>
+    /// 点击按钮关闭游戏
+    /// </summary>
+    public void OnClickQuitGame()
+    {
+        Application.Quit();
+    }
+
 }

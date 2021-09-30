@@ -55,6 +55,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\UI\ButtonManager.cs" />
     <Compile Include="Assets\Scripts\LoadFile\LoadXmlFile.cs" />
+    <Compile Include="Assets\Scripts\Video\VideoController.cs" />
+    <Compile Include="Assets\Scripts\Game\PlayerControlor\FPS_PlayerControlor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\streamingAssets\scene.xml" />
